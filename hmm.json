@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    {
+      "name": "comma",
+      "type": "haxelib",
+      "version": null
+    }
+  ]
+}
